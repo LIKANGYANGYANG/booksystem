@@ -1,0 +1,93 @@
+{
+  "id": "4257729",
+  "name": "books",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9749368",
+      "name": "借阅记录",
+      "font_class": "file-management-borrowed-record",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "5203299",
+      "name": "太阳",
+      "font_class": "taiyang",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "19117435",
+      "name": "月亮",
+      "font_class": "yueliang",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "201638",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "577357",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "1305463",
+      "name": "查看",
+      "font_class": "chakan",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "12875291",
+      "name": "数据分析",
+      "font_class": "shujufenxi",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "415456",
+      "name": "类别管理",
+      "font_class": "leibieguanli",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "4676490",
+      "name": "用户管理",
+      "font_class": "yonghuguanli",
+      "unicode": "e70c",
+      "unicode_decimal": 59148
+    },
+    {
+      "icon_id": "4766293",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e7ae",
+      "unicode_decimal": 59310
+    },
+    {
+      "icon_id": "15838485",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "33971752",
+      "name": "图书查询",
+      "font_class": "tushuchaxun",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    }
+  ]
+}
